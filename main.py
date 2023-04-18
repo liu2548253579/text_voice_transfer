@@ -9,6 +9,7 @@ record(file)                # 录制音频
 
 res_str = audio_to_text(file)               # 语音识别
 print(res_str)                              # 打印识别结果
+
 ret = text_to_audio(synth_file, res_str)    # 语音合成
 if ret != -1:
     play(synth_file)                        # 播放合成结果

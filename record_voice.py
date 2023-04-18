@@ -1,6 +1,5 @@
 import keyboard  
 import pyaudio,wave
-from tqdm import tqdm
 
 def record(filename):
     p =  pyaudio.PyAudio()     
