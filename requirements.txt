@@ -1,0 +1,5 @@
+tqdm
+keyboard
+pyaudio
+baidu_aip
+chardet
