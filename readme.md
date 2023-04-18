@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## 2.配置百度API
 
-去百度AI官网主策并申请语音识别的API勾选文字转语音和语音转文字功能获取到**APP_ID、API_KEY**与**SECRET_KEY**并将其填写到**baidu_api.txt**
+去[百度AI官网](https://ai.baidu.com/?track=cp:ainsem|pf:pc|pp:tongyong-pinpai|pu:pinpai-baiduAI|ci:|kw:10003812)主策并申请语音识别的API勾选文字转语音和语音转文字功能获取到**APP_ID、API_KEY**与**SECRET_KEY**并将其填写到**baidu_api.txt**
 
 例如：
 
