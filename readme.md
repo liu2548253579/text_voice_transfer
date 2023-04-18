@@ -1,9 +1,8 @@
 # 语音转文字与文字转语音实现
 
-
 ## 1.安装
 
-确保你所处的操作系统已安装ffmpeg
+确保你所处的操作系统已安装ffmpeg、python版本大于或等于3.8
 
 然后cd到工程目录下
 
@@ -12,7 +11,6 @@
 ```bash
 pip install -r requirements.txt
 ```
-
 
 ## 2.配置百度API
 
@@ -25,7 +23,6 @@ APP_ID:123456789
 API_KEY:xxxxxxxxxxxxxxxxxxx
 SECRET_KEY:xxxxxxxxxxxxxxx
 ```
-
 
 ## 3.开始使用
 
