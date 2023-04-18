@@ -1,4 +1,5 @@
 tqdm
+wave
 keyboard
 pyaudio
 baidu_aip
